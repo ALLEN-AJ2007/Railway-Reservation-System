@@ -1,8 +1,7 @@
 # Railway-Reservation-System
-
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040017
+# Name:ALLEN PRAKASH J
+# Date:20/11/2026
 
 
 # AIM:
@@ -42,6 +41,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1917" height="1020" alt="Screenshot 2026-10-21 122821" src="https://github.com/user-attachments/assets/f3569b93-b55f-41e9-a1c5-939296b6de92" />
 
 
 
@@ -58,6 +58,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="1917" height="1016" alt="Screenshot 2026-10-28 142929" src="https://github.com/user-attachments/assets/c6a8c9b2-01b1-435a-8c3e-8686cf32c697" />
 
 
 
@@ -79,6 +80,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1917" height="1023" alt="Screenshot 2026-11-04 134908" src="https://github.com/user-attachments/assets/647cab69-ee74-4c73-b02c-a63b5c4ad539" />
 
 
 
@@ -97,6 +99,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="1917" height="1025" alt="Screenshot 2026-10-23 141637" src="https://github.com/user-attachments/assets/c607dfd7-a6e2-4c0f-8a54-23338969afa8" />
 
 
 
